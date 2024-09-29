@@ -1,0 +1,2 @@
+D:\usefulTools\MinGW\mingw64\bin\ar.exe qc libFileCpp.a CMakeFiles/FileCpp.dir/source/stdFile.cpp.obj
+D:\usefulTools\MinGW\mingw64\bin\ranlib.exe libFileCpp.a
